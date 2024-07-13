@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SC3KExtraCheats", "SC3KExtraCheats.vcxproj", "{B97CAFE1-5A51-455E-AD1F-9FC4954EA095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97CAFE1-5A51-455E-AD1F-9FC4954EA095}.Debug|x86.ActiveCfg = Debug|Win32
+		{B97CAFE1-5A51-455E-AD1F-9FC4954EA095}.Debug|x86.Build.0 = Debug|Win32
+		{B97CAFE1-5A51-455E-AD1F-9FC4954EA095}.Release|x86.ActiveCfg = Release|Win32
+		{B97CAFE1-5A51-455E-AD1F-9FC4954EA095}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A63C557C-F731-4106-BEE6-4D47593968A6}
+	EndGlobalSection
+EndGlobal

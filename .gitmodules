@@ -1,0 +1,3 @@
+[submodule "vendor/sc3k-gzcom-dll"]
+	path = vendor/sc3k-gzcom-dll
+	url = https://github.com/0xC0000054/sc3k-gzcom-dll
