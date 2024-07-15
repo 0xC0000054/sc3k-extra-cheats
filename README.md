@@ -10,7 +10,8 @@ A DLL Plugin for SimCity 3000 that adds new cheat codes.
 
 ## Notes
 
-The `moolah` cheat argument can be either a positive or negative number, e.g. `moolah 2000000` or `moolah -100000`.   
+The `moolah` cheat argument can be either a positive or negative number, e.g. `moolah 2000000` or `moolah -100000`.
+The `moolah` cheat argument is a signed 64-bit integer, with a range of -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.    
 The `SimDate` cheat has a minimum date of `1 1 0001`, but it displays the leading zeros in the year as spaces.
 
 The `dotcom` cheat is a port of a Maxis developer cheat that was left in the Linux version of SimCity 3000.    
